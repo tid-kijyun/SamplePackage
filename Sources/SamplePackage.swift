@@ -1,4 +1,3 @@
-struct SamplePackage {
-
-    var text = "Hello, World!"
+public func sayHello() {
+    print("Hello 1.1.0-rc1")
 }
