@@ -1,3 +1,3 @@
 public func sayHello() {
-    print("Hello 1.1.0alpha")
+    print("Hello 2.0.0")
 }
